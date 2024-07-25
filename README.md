@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Programador" width="300" height="300" />
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTereza&layout=compact&langs_count=16&theme=dark">
 
-<h2>Tecnologias que uso:</h2>
+<h2>Tecnologias que estou aprendendo:</h2>
 
 <div style="display: inline-block">
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5">
@@ -24,6 +24,12 @@
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git">
 </div>
+
+<h2>Projetos em destaques:</h2>
+
+
+<img height="100px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJzdzdzNjZtbGZiMzF4eTJnZDJtcmpmZTc4MXcyZ3l5YjlvYXFtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OiC5BKaPVLl60/giphy.gif">
+Em desenvolvimento....
 
 
 
