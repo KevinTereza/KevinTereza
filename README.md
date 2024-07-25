@@ -13,7 +13,6 @@
 
 <br>
 <br>
-<br>
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTereza&layout=compact&langs_count=16&theme=dark">
 
