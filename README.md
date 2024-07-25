@@ -11,7 +11,11 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTereza&layout=compact&langs_count=16&theme=dark">
+<br>
+<br>
+<br>
+
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTereza&layout=compact&langs_count=16&theme=dark">
 
 <h2>Tecnologias que estou aprendendo:</h2>
 
