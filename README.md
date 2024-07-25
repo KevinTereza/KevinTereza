@@ -1,5 +1,5 @@
 <h1>Bem-vindo ao meu GitHub <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
-<p>Olá! Meu nome é Kevin, tenho 15 anos e sou um desenvolvedor web iniciante.<br>Também produzo vídeos sobre programação nas redes sociais abaixo:</p>
+<p>Olá! Meu nome é <b>Kevin</b>, tenho 15 anos e sou um <b>desenvolvedor iniciante</b>.<br>Também produzo conteúdo sobre programação nas redes sociais abaixo:</p>
 
 <a href="https://www.youtube.com/@kevin.tereza_dev">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
