@@ -28,7 +28,7 @@
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git">
 </div>
 
-<h2>Projetos em destaques:</h2>
+<h2>Projetos em destaque:</h2>
 
 
 <img height="100px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJzdzdzNjZtbGZiMzF4eTJnZDJtcmpmZTc4MXcyZ3l5YjlvYXFtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OiC5BKaPVLl60/giphy.gif">
