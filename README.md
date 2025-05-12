@@ -14,7 +14,7 @@
 - 🚀 Tenho conhecimento em **JavaScript básico** e estou constantemente aprimorando minhas habilidades.
 
 ## Veja meu último projeto:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinTereza&repo=the-news-clone&&theme=transparent)](https://github.com/KevinTereza/the-news-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinTereza&repo=calc-js&&theme=transparent)](https://github.com/KevinTereza/calc-js)
   
 ### 📫 Você também pode me encontrar aqui:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-tereza) 
