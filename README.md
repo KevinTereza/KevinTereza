@@ -17,7 +17,7 @@
 </p>
 
 ## 📌 Veja meu último projeto publicado
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinTereza&repo=barber-style&&theme=transparent)](https://github.com/KevinTereza/barber-style)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinTereza&repo=landing-page&&theme=transparent)](https://github.com/KevinTereza/landing-page)
 
   
 ### 📫 Você também pode me encontrar aqui:  
