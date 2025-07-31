@@ -17,7 +17,7 @@
 </div>
 
 ## 🔥 Último projeto publicado
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinTereza&repo=escalacao-de-jogadores&theme=transparent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinTereza&repo=escalacao-de-jogadores&theme=transparent)](https://github.com/KevinTereza/escalacao-de-jogadores)
 
 ## 📫 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-tereza) 
