@@ -17,7 +17,7 @@
 </div>
 
 ## 🔥 Último projeto publicado
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinTereza&repo=js-bookstore&theme=transparent)](https://github.com/KevinTereza/js-bookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinTereza&repo=valida-ja&theme=transparent)](https://github.com/KevinTereza/valida-ja)
 
 ## 📫 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-tereza) 
